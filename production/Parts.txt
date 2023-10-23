@@ -1,0 +1,8 @@
+List of parts that cannot be placed by JLCPCB
+
+Kailh PG1350 optional Hot Swap Sockets: https://chosfox.com/products/kailh-choc-switch-1350-hot-swap-sockets
+ Sells for $1.45 for a pack of 10
+
+SSD1306 I2C OLED: https://www.amazon.com/Dorhea-Display-SSD1306-Self-Luminous-Raspberry/dp/B0837DLWVH/ref=sr_1_2?crid=2A4O257BS9XER&keywords=SSD%2B1305%2BI2C%2BOLED%2B4%2Bpin&qid=1698013849&s=electronics&sprefix=ssd%2B1305%2Bi2c%2Boled%2B4%2Bpin%2Celectronics%2C140&sr=1-2&th=1
+ Sells for $17.99 for a pack of 6
+
